@@ -24,7 +24,7 @@ void bubbleSort(int *array, int size) {
          break;       // No swap in this pass, so array is sorted
    }
    for(int i=;i<n;i++)
-      cout<<"yes";
+      cout<<"no";
 }
 int main() {
    int n;
